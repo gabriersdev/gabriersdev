@@ -4,7 +4,7 @@
 #### <b>About me</b>
 🎯 Currenty learning JavaScript and Java <br>
 👨🏽‍💻 I develop using languages PHP, JavaScript, CSS and HTML 🔥<br>
-🚀 "To infinity and beyond"
+> 🚀 "To infinity and beyond"
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieszin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieszin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
