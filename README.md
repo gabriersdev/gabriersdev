@@ -2,7 +2,7 @@
 #### Welcome to my place! 🏝️
 
 #### <b>About me</b>
-🎯 Currenty learning JavaScript and Java <br>
+🎯 Currenty learning JavaScript and Python <br>
 👨🏽‍💻 I develop using languages PHP, JavaScript, CSS and HTML 🔥<br>
 > 🚀 "To infinity and beyond"
 
