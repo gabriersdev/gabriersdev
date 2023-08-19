@@ -24,3 +24,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Projects 
+
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieszin&repo=confirmacao-cca&theme=dark" />
+</a>&nbsp;
+
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieszin&repo=calculadora-tempo-de-servico&theme=dark" />
+</a>&nbsp;
