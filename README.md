@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieszin&repo=calculadora-tempo-de-servico&theme=dark" />
 </a>&nbsp;
+
+### Working...
+
+[![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieszin&theme=vue-dark)](https://github.com/)
