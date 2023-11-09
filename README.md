@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ### Working...
 
 [![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieszin&theme=vue-dark)](https://github.com/)
+
+💻😎 [Me on GitHub Gist](https://gist.github.com/gabrieszin)
