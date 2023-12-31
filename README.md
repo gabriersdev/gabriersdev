@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Projects 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieszin&repo=confirmacao-cca&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrieszin&repo=cca&theme=dark" />
 </a>&nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline">
