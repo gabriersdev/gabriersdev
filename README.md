@@ -6,9 +6,9 @@
 👨🏽‍💻 I develop using languages PHP, JavaScript, CSS and HTML 🔥<br>
 > 🚀 "To infinity and beyond"
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieszin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieszin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://komarev.com/ghpvc/?username=gabrieszin&color=brightgreen&style=for-the-badge&label=VISITAS)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriersdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriersdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://komarev.com/ghpvc/?username=gabriersdev&color=brightgreen&style=for-the-badge&label=VISITAS)
 
 <!--
 **gabrieszin/gabrieszin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
