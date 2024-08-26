@@ -3,7 +3,7 @@
 
 #### <b>About me</b>
 🎯 Currenty learning JavaScript and Python <br>
-👨🏽‍💻 I develop using languages PHP, JavaScript, CSS and HTML 🔥<br>
+👨🏽‍💻 I develop using languages React, JS (vanilla), CSS and HTML 🔥<br>
 > 🚀 "To infinity and beyond"
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriersdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
