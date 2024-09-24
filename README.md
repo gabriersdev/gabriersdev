@@ -2,19 +2,20 @@
 
 ## <b>About me</b>
 
-🙋‍♂️ Gabriel Ribeiro
+🙋‍♂️ Gabriel Ribeiro  
 👉 20 years old  
-📍 Minas Gerais, Brazil
+📍 Minas Gerais, Brazil  
 🖥️ Front-End Developer and Systems Analysis and Development Student
 
-## Porfolio
-<https://gabriersdev.github.io/portfolio/>
+## Portfolio
+
+💻👨‍💻 [Portfolio and Resume](https://gabriersdev.github.io/portfolio/)
 
 ## Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriersdev&show_icons=true&theme=dark)  
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriersdev&layout=compact&theme=dark)  
-![Count Profile Visits](https://komarev.com/ghpvc/?username=gabriersdev&color=brightgreen&style=for-the-badge&label=VISITAS)
+![Count Profile Visits](https://komarev.com/ghpvc/?username=gabriersdev&color=brightgreen&style=for-the-badge&label=Profile+Visits)
 
 ## Working...
 
