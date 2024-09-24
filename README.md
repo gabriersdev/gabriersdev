@@ -1,32 +1,25 @@
-### Hey! I'm Gabriel
-#### Welcome to my place! 🏝️
+# Hey!
 
-#### <b>About me</b>
-🎯 Currenty learning JavaScript and Python <br>
-👨🏽‍💻 I develop using languages React, JS (vanilla), CSS and HTML 🔥<br>
-> 🚀 "To infinity and beyond"
+## <b>About me</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriersdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriersdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://komarev.com/ghpvc/?username=gabriersdev&color=brightgreen&style=for-the-badge&label=VISITAS)
+🙋‍♂️ Gabriel Ribeiro
+👉 20 years old  
+📍 Minas Gerais, Brazil
+🖥️ Front-End Developer and Systems Analysis and Development Student
 
-<!--
-**gabrieszin/gabrieszin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Porfolio
+<https://gabriersdev.github.io/portfolio/>
 
-Here are some ideas to get you started:
+## Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriersdev&show_icons=true&theme=dark)  
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriersdev&layout=compact&theme=dark)  
+![Count Profile Visits](https://komarev.com/ghpvc/?username=gabriersdev&color=brightgreen&style=for-the-badge&label=VISITAS)
 
-### Working...
+## Working...
 
-[![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=vue-dark)](https://github.com/)
+![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=dark&display_format=time&layout=compact)
+
+## Gist
 
 💻😎 [Me on GitHub Gist](https://gist.github.com/gabriersdev)
