@@ -2,6 +2,8 @@
 
 ## <b>About me</b>
 
+> "Sometimes direction is more important than speed"
+
 🙋‍♂️ Gabriel Ribeiro  
 👉 20 years old  
 📍 Minas Gerais, Brazil  
