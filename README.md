@@ -6,7 +6,7 @@
 
 🙋‍♂️ Gabriel Ribeiro  
 👉 20 years old  
-📍 Minas Gerais, Brazil  
+📍 Minas Gerais, Brasil  
 🖥️ Front-End Developer and Systems Analysis and Development Student
 
 ## Portfolio
