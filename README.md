@@ -5,7 +5,7 @@
 > "Sometimes direction is more important than speed"
 
 🙋‍♂️ Gabriel Ribeiro  
-👉 20 years old  
+👉 21 years old  
 📍 Minas Gerais, Brasil  
 🖥️ Front-End Developer and Systems Analysis and Development Student
 
