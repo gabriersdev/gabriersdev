@@ -2,12 +2,12 @@
 
 ## <b>About me</b>
 
-> "Sometimes direction is more important than speed"
-
 🙋‍♂️ Gabriel Ribeiro  
 👉 21 years old  
 📍 Minas Gerais, Brasil  
 🖥️ Front-End Developer and Systems Analysis and Development Student
+
+> "Sometimes direction is more important than speed"
 
 ![JavaScript](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/javascript-badge.svg)
 ![Python](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/python-badge.svg)
