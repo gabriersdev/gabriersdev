@@ -28,7 +28,7 @@
 ## Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriersdev&show_icons=true&theme=dark)  
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriersdev&layout=compact&theme=dark)  
+<!-- ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriersdev&layout=compact&theme=dark) -->
 ![Count Profile Visits](https://komarev.com/ghpvc/?username=gabriersdev&color=brightgreen&style=for-the-badge&label=Profile+Visits)
 
 ## Working...
