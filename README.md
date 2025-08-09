@@ -1,4 +1,4 @@
-# Hey!
+# Hey
 
 🙋‍♂️ I'm Gabriel Ribeiro  
 👉 21 years old  
@@ -29,9 +29,14 @@
 <!-- ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriersdev&layout=compact&theme=dark) -->
 ![Count Profile Visits](https://komarev.com/ghpvc/?username=gabriersdev&color=brightgreen&style=for-the-badge&label=Profile+Visits)
 
-## Working...
+## Working
 
-![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=dark&display_format=time&layout=compact)
+<figure style="padding: 0; margin: 0;">
+  <div style="max-height: 300px !important; heigth: 200px; overflow-y: scroll; padding: 0; margin-bottom: 0; display: inline-block">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=dark&display_format=time&layout=compact" style="margin-bottom: 0; padding-bottom: 0">
+  </div>
+    <figcaption style="text-align: center; margin-top: 5px">Scroll to see more</figcaption>
+</figure>
 
 ## Gist
 
