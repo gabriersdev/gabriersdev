@@ -1,8 +1,6 @@
 # Hey!
 
-## <b>About me</b>
-
-🙋‍♂️ Gabriel Ribeiro  
+🙋‍♂️ I'm Gabriel Ribeiro  
 👉 21 years old  
 📍 Minas Gerais, Brasil  
 🖥️ Full Stack Developer and Systems Analysis and Development Student  
