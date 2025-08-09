@@ -33,7 +33,7 @@
 
 <figure style="padding: 0; margin: 0;">
   <div style="max-height: 300px !important; heigth: 200px; overflow-y: scroll; padding: 0; margin-bottom: 0; display: inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=dark&display_format=time&layout=compact" style="margin-bottom: 0; padding-bottom: 0">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=dark&display_format=time&layout=compact" style="margin-bottom: 0; padding-bottom: 0; max-height: 300px">
   </div>
     <figcaption style="text-align: center; margin-top: 5px">Scroll to see more</figcaption>
 </figure>
