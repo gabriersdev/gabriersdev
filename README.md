@@ -14,10 +14,14 @@
 ![React](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/react-badge.svg)
 ![TypeScript](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/typescript-badge.svg)
 ![PHP](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/python-badge.svg)
-![TailwindCSS](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/tailwindcss-badge.svg)
+![Tailwind CSS](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/tailwindcss-badge.svg)
 ![Bootstrap](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/bootstrap-badge.svg)
 ![SQL](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/sql-badge.svg)
 ![Vercel](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/vercel-badge.svg)
+![GitHub](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/github-badge.svg)
+![Wordpress](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/wordpress-badge.svg)
+![Vitepress](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/vite-badge.svg)
+
 
 ## Portfolio
 
