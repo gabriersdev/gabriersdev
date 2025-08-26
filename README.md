@@ -35,7 +35,7 @@
 
 ## Working
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=dark&display_format=time&layout=compact" style="margin-bottom: 0; padding-bottom: 0; max-height: 300px">
+![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=dark&display_format=time&layout=compact)
 
 ## Gist
 
