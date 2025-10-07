@@ -6,7 +6,7 @@
 🖥️ Full Stack Developer and Systems Analysis and Development Student  
 🖥️ Product Owner and Full Stack Developer in [Lotus Media](https://lts.app.br/)
 
-> "Sometimes direction is more important than speed"
+> "Direction is more important than speed"
 
 ![JavaScript](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/javascript-badge.svg)
 ![Python](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/python-badge.svg)
@@ -21,6 +21,8 @@
 ![GitHub](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/github-badge.svg)
 ![Wordpress](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/wordpress-badge.svg)
 ![Vitepress](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/vite-badge.svg)
+![GitHub Actions](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/github-actions-badge.svg)
+![SQLite](https://raw.githubusercontent.com/gabriersdev/github-profile/9dc8c0947fdc4a109fe63a4c380f5f52e8962ed5/files/sqlite-badge.svg)
 
 
 ## Portfolio
