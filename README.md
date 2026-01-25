@@ -39,6 +39,8 @@
 
 ![Me on Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gabriersdev&theme=dark&display_format=time&layout=compact)
 
+[![GitHub Streak](https://streak.gabriel.lts.app.br?user=gabriersdev&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ## Gist
 
 💻😎 [Me on GitHub Gist](https://gist.github.com/gabriersdev)
