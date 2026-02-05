@@ -1,7 +1,7 @@
 # Hey
 
 🙋‍♂️ I'm Gabriel Ribeiro  
-👉 21 years old  
+👉 22 years old  
 📍 Minas Gerais, Brasil  
 🖥️ Full Stack Developer and Systems Analysis and Development Student  
 🖥️ Product Owner and Full Stack Developer in [Lotus Media](https://lts.app.br/)
